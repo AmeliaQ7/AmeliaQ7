@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 Nazywam się Amelia i jestem studentką Informatyki i Ekonometrii na UG.
 Na ten moment skupiam się głownie na projektach związanych z uczelnią, ale jestem otwarta na nowe doświadczenia.
 Uczę się programowaniania oraz poznaję takie narzędzia jak HTML, CSS, Phyton, JavaScript, C#, SQL oraz nonSQL.
+ 
