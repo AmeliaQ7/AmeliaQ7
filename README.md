@@ -19,5 +19,8 @@ Here are some ideas to get you started:
 
 Nazywam się Amelia i jestem studentką Informatyki i Ekonometrii na UG.
 Na ten moment skupiam się głownie na projektach związanych z uczelnią, ale jestem otwarta na nowe doświadczenia.
-Uczę się programowaniania oraz poznaję takie narzędzia jak HTML, CSS, Phyton, JavaScript, C#, PHP, SQL oraz nonSQL.
+Najbardziej aktualne projekty:
+      -Projekt prostego interfejsu dla pracowników kwiaciarni React front-end + C# back-end
+     - Projekt interfejsu dla pracowników sklepu RetroShop React front-end + json database back-end
+Uczę się programowaniania oraz poznaję takie narzędzia jak HTML, CSS, Phyton, JavaScript (React), C#, PHP, SQL oraz nonSQL.
  
