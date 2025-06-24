@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 *"Moim zdaniem to nie ma tak, że dobrze albo że nie dobrze. Gdybym miał powiedzieć, co cenię w życiu najbardziej, powiedziałbym, że ludzi. Ekhm... Ludzi, którzy podali mi pomocną dłoń, kiedy sobie nie radziłem, kiedy byłem sam. I co ciekawe, to właśnie przypadkowe spotkania wpływają na nasze życie."*
 
-Nazywam się Amelia i jestem studentką Informatyki i Ekonometrii na UG.
-Na ten moment skupiam się głownie na projektach związanych z uczelnią, ale jestem otwarta na nowe doświadczenia.
+Nazywam się Amelia i jestem studentką Informatyki i Ekonometrii na UG.  
+Na ten moment skupiam się głownie na projektach związanych z uczelnią, ale jestem otwarta na nowe doświadczenia.  
 Najbardziej aktualne projekty:  
       -Projekt prostego interfejsu dla pracowników kwiaciarni React front-end + C# back-end  
      - Projekt interfejsu dla pracowników sklepu RetroShop React front-end + json database back-end  
